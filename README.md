@@ -4,22 +4,21 @@ I made a tool that automatically collects new products from Product Hunt and sav
 
 What’s included:
 
-product name
+-product name
 
-short description (if available)
+-short description (if available)
 
-product link
+-product link
 
-launch date
+-launch date
 
 Who this is useful for:
 
-startup founders & entrepreneurs — to find ideas
+-startup founders & entrepreneurs — to find ideas
 
-investors — to track fresh launches
+-investors — to track fresh launches
 
-developers — to stay aware of new tools
-
-anyone who wants to understand what’s being released right now
+-developers — to stay aware of new tools
+-anyone who wants to understand what’s being released right now
 
 If you want early access, custom filters, or a private version — feel free to DM me.
