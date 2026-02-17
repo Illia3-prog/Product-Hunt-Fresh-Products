@@ -19,6 +19,7 @@ Who this is useful for:
 -investors — to track fresh launches
 
 -developers — to stay aware of new tools
+
 -anyone who wants to understand what’s being released right now
 
 If you want early access, custom filters, or a private version — feel free to DM me.
