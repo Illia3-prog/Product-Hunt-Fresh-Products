@@ -12,7 +12,8 @@ product link
 
 launch date
 
-Who this is useful for
+Who this is useful for:
+
 startup founders & entrepreneurs — to find ideas
 
 investors — to track fresh launches
